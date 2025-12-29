@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Shristi👾<br>I'm a Computer Science student  <br>Currently working on Python and web projects  <br>Interested in internships, open-source & real-world problem solving  <br>Always learning 🚀<br>
+# Hi, I'm Shristi👾
+I'm a Computer Science student  <br>Currently working on Python and web projects  <br>Interested in internships, open-source & real-world problem solving  <br>Always learning 🚀<br>
 
 
 # 💻 Tech Stack:
